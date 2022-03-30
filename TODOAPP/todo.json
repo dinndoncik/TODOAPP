@@ -1,0 +1,28 @@
+[
+    {
+        "id": "TODO-1",
+        "created_at": "2022-03-30 13:47",
+        "content": "Read a book",
+        "status": "new"
+    },
+    {
+        "id": "TODO-2",
+        "created_at": "2022-03-30 13:47",
+        "content": "Go to sleep",
+        "status": "new"
+    },
+    {
+        "id": "TODO-3",
+        "created_at": "2022-03-30 13:48",
+        "content": "Ride a bike",
+        "status": "new",
+        "due_date": "2022-06-13 13:06"
+    },
+    {
+        "id": "TODO-4",
+        "created_at": "2022-03-30 13:49",
+        "content": "Ride a bike",
+        "status": "new",
+        "due_date": "2022-06-13 13:06"
+    }
+]
